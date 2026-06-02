@@ -22,6 +22,5 @@ I am a computer science student with a strong passion for Python<br>programming.
 ![](https://github-contributor-stats.vercel.app/api?username=vanshikaprajapati05&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=vanshikaprajapati05&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=vanshikaprajapati05&label=Profile%20Views&color=ff69b4&style=for-the-badge)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
