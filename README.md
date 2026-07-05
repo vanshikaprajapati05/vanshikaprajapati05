@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student with a strong passion for Python<br>programming. I love working with data to create stunning visualizations<br>and data cleaning in parallel.<br>Currently, I am learning artificial intelligence and machine learning.<br>
+I am a Bsc computer science student with a strong passion for Python<br>programming. I love working with data to create stunning visualizations<br>and data cleaning in parallel.<br>Currently, I am learning artificial intelligence and machine learning.<br>
 
 
 ## 🌐 Socials:
