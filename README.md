@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a B.Sc. Computer Science student passionate about Python programming, Data Analytics, Artificial Intelligence, and Machine Learning. I enjoy cleaning, analyzing, and visualizing data to uncover meaningful insights. Currently, I am exploring Python libraries, building hands-on projects, and continuously improving my technical skills. I am always eager to learn new technologies and contribute to real-world, data-driven solutions.<br>
+I am a B.Sc. Computer Science student passionate about Python programming, Data Analytics, Artificial Intelligence, and Machine Learning. 
+I enjoy cleaning, analyzing, and visualizing data to uncover meaningful insights. Currently, I am exploring Python libraries, building hands-on projects, and continuously improving my technical skills. I am always eager to learn new technologies and contribute to real-world, data-driven solutions.<br>
 
 
 ## 🌐 Socials:
